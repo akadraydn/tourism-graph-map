@@ -1,0 +1,493 @@
+[
+    {
+      "Nationality": "Germany",
+      "Latitude": 52.5200,
+      "Longitude": 13.4050
+    },
+    {
+      "Nationality": "Austria",
+      "Latitude": 48.2082,
+      "Longitude": 16.3738
+    },
+    {
+      "Nationality": "Belgium",
+      "Latitude": 50.8503,
+      "Longitude": 4.3517
+    },
+    {
+      "Nationality": "Czech Republic",
+      "Latitude": 50.0755,
+      "Longitude": 14.4378
+    },
+    {
+      "Nationality": "Denmark",
+      "Latitude": 55.6761,
+      "Longitude": 12.5683
+    },
+    {
+      "Nationality": "Finland",
+      "Latitude": 60.1695,
+      "Longitude": 24.9354
+    },
+    {
+      "Nationality": "France",
+      "Latitude": 48.8566,
+      "Longitude": 2.3522
+    },
+    {
+      "Nationality": "Netherlands",
+      "Latitude": 52.3676,
+      "Longitude": 4.9041
+    },
+    {
+      "Nationality": "United Kingdom",
+      "Latitude": 51.5074,
+      "Longitude": -0.1278
+    },
+    {
+      "Nationality": "Ireland",
+      "Latitude": 53.3498,
+      "Longitude": -6.2603
+    },
+    {
+      "Nationality": "Spain",
+      "Latitude": 40.4168,
+      "Longitude": -3.7038
+    },
+    {
+      "Nationality": "Sweden",
+      "Latitude": 59.3293,
+      "Longitude": 18.0686
+    },
+    {
+      "Nationality": "Switzerland",
+      "Latitude": 46.2044,
+      "Longitude": 6.1432
+    },
+    {
+      "Nationality": "Italy",
+      "Latitude": 41.9028,
+      "Longitude": 12.4964
+    },
+    {
+      "Nationality": "Iceland",
+      "Latitude": 64.1355,
+      "Longitude": -21.8954
+    },
+    {
+      "Nationality": "Luxembourg",
+      "Latitude": 49.6116,
+      "Longitude": 6.1319
+    },
+    {
+      "Nationality": "Hungary",
+      "Latitude": 47.4979,
+      "Longitude": 19.0402
+    },
+    {
+      "Nationality": "Norway",
+      "Latitude": 59.9139,
+      "Longitude": 10.7522
+    },
+    {
+      "Nationality": "Poland",
+      "Latitude": 52.2297,
+      "Longitude": 21.0122
+    },
+    {
+      "Nationality": "Portugal",
+      "Latitude": 38.7223,
+      "Longitude": -9.1393
+    },
+    {
+      "Nationality": "Slovakia",
+      "Latitude": 48.1486,
+      "Longitude": 17.1077
+    },
+    {
+      "Nationality": "Greece",
+      "Latitude": 37.9838,
+      "Longitude": 23.7275
+    },
+    {
+      "Nationality": "U.S.A.",
+      "Latitude": 38.9072,
+      "Longitude": -77.0369
+    },
+    {
+      "Nationality": "Australia",
+      "Latitude": -35.2809,
+      "Longitude": 149.1300
+    },
+    {
+      "Nationality": "Korea",
+      "Latitude": 37.5665,
+      "Longitude": 126.9780
+    },
+    {
+      "Nationality": "Japan",
+      "Latitude": 35.6762,
+      "Longitude": 139.6503
+    },
+    {
+      "Nationality": "Canada",
+      "Latitude": 45.4215,
+      "Longitude": -75.6972
+    },
+    {
+      "Nationality": "Mexico",
+      "Latitude": 19.4326,
+      "Longitude": -99.1332
+    },
+    {
+      "Nationality": "New Zealand",
+      "Latitude": -41.2865,
+      "Longitude": 174.7762
+    },
+    {
+      "Nationality": "Albania",
+      "Latitude": 41.3275,
+      "Longitude": 19.8187
+    },
+    {
+      "Nationality": "Bosnia Herzegovina",
+      "Latitude": 43.8563,
+      "Longitude": 18.4131
+    },
+    {
+      "Nationality": "Bulgaria",
+      "Latitude": 42.6977,
+      "Longitude": 23.3219
+    },
+    {
+      "Nationality": "Estonia",
+      "Latitude": 59.4370,
+      "Longitude": 24.7535
+    },
+    {
+      "Nationality": "Croatia",
+      "Latitude": 45.8150,
+      "Longitude": 15.9819
+    },
+    {
+      "Nationality": "Latvia",
+      "Latitude": 56.9496,
+      "Longitude": 24.1052
+    },
+    {
+      "Nationality": "Lithuania",
+      "Latitude": 54.6872,
+      "Longitude": 25.2797
+    },
+    {
+      "Nationality": "North Macedonia",
+      "Latitude": 41.9981,
+      "Longitude": 21.4254
+    },
+    {
+      "Nationality": "Romania",
+      "Latitude": 44.4268,
+      "Longitude": 26.1025
+    },
+    {
+      "Nationality": "Slovenia",
+      "Latitude": 46.0569,
+      "Longitude": 14.5058
+    },
+    {
+      "Nationality": "Serbia",
+      "Latitude": 44.7866,
+      "Longitude": 20.4489
+    },
+    {
+      "Nationality": "Azerbaijan",
+      "Latitude": 40.4093,
+      "Longitude": 49.8671
+    },
+    {
+      "Nationality": "Belarus",
+      "Latitude": 53.9045,
+      "Longitude": 27.5615
+    },
+    {
+      "Nationality": "Armenia",
+      "Latitude": 40.1792,
+      "Longitude": 44.4991
+    },
+    {
+      "Nationality": "Georgia",
+      "Latitude": 41.7151,
+      "Longitude": 44.8271
+    },
+    {
+      "Nationality": "Kazakhstan",
+      "Latitude": 51.1694,
+      "Longitude": 71.4491
+    },
+    {
+      "Nationality": "Kyrghyzstan",
+      "Latitude": 42.8746,
+      "Longitude": 74.5698
+    },
+    {
+      "Nationality": "Moldova",
+      "Latitude": 47.0105,
+      "Longitude": 28.8638
+    },
+    {
+      "Nationality": "Uzbekistan",
+      "Latitude": 41.2995,
+      "Longitude": 69.2401
+    },
+    {
+      "Nationality": "Russian Federation",
+      "Latitude": 55.7558,
+      "Longitude": 37.6173
+    },
+    {
+      "Nationality": "Tajikistan",
+      "Latitude": 38.5737,
+      "Longitude": 68.7913
+    },
+    {
+      "Nationality": "Turkmenistan",
+      "Latitude": 37.9601,
+      "Longitude": 58.3261
+    },
+    {
+      "Nationality": "Ukraine",
+      "Latitude": 50.4501,
+      "Longitude": 30.5234
+    },
+    {
+      "Nationality": "China",
+      "Latitude": 39.9042,
+      "Longitude": 116.4074
+    },
+    {
+      "Nationality": "Honkong",
+      "Latitude": 22.3193,
+      "Longitude": 114.1694
+    },
+    {
+      "Nationality": "Indonesia",
+      "Latitude": -6.2088,
+      "Longitude": 106.8456
+    },
+    {
+      "Nationality": "Philippines",
+      "Latitude": 14.5995,
+      "Longitude": 120.9842
+    },
+    {
+      "Nationality": "Malaysia",
+      "Latitude": 3.1390,
+      "Longitude": 101.6869
+    },
+    {
+      "Nationality": "Singapore",
+      "Latitude": 1.3521,
+      "Longitude": 103.8198
+    },
+    {
+      "Nationality": "Thailand",
+      "Latitude": 13.7563,
+      "Longitude": 100.5018
+    },
+    {
+      "Nationality": "Afghanistan",
+      "Latitude": 34.5553,
+      "Longitude": 69.2075
+    },
+    {
+      "Nationality": "Bangladesh",
+      "Latitude": 23.8103,
+      "Longitude": 90.4125
+    },
+    {
+      "Nationality": "India",
+      "Latitude": 28.6139,
+      "Longitude": 77.2090
+    },
+    {
+      "Nationality": "Iran",
+      "Latitude": 35.6892,
+      "Longitude": 51.3890
+    },
+    {
+      "Nationality": "Pakistan",
+      "Latitude": 33.6844,
+      "Longitude": 73.0479
+    },
+    {
+      "Nationality": "Bahreyn",
+      "Latitude": 26.2285,
+      "Longitude": 50.5861
+    },
+    {
+      "Nationality": "U.A.E.",
+      "Latitude": 24.4539,
+      "Longitude": 54.3773
+    },
+    {
+      "Nationality": "Palestine",
+      "Latitude": 31.9466,
+      "Longitude": 35.3027
+    },
+    {
+      "Nationality": "Iraq",
+      "Latitude": 33.3152,
+      "Longitude": 44.3661
+    },
+    {
+      "Nationality": "Israel",
+      "Latitude": 31.7683,
+      "Longitude": 35.2137
+    },
+    {
+      "Nationality": "Qatar",
+      "Latitude": 25.276987,
+      "Longitude": 51.520008
+    },
+    {
+      "Nationality": "T.R.N.C.",
+      "Latitude": 35.2114,
+      "Longitude": 33.3536
+    },
+    {
+      "Nationality": "Kuwait",
+      "Latitude": 29.3759,
+      "Longitude": 47.9774
+    },
+    {
+      "Nationality": "Lebanon",
+      "Latitude": 33.8938,
+      "Longitude": 35.5018
+    },
+    {
+      "Nationality": "Syria",
+      "Latitude": 33.5138,
+      "Longitude": 36.2765
+    },
+    {
+      "Nationality": "Saudi Arabia",
+      "Latitude": 24.7136,
+      "Longitude": 46.6753
+    },
+    {
+      "Nationality": "Oman",
+      "Latitude": 23.5880,
+      "Longitude": 58.3829
+    },
+    {
+      "Nationality": "Jordan",
+      "Latitude": 31.9516,
+      "Longitude": 35.9239
+    },
+    {
+      "Nationality": "Yemen",
+      "Latitude": 15.3694,
+      "Longitude": 44.1910
+    },
+    {
+      "Nationality": "Algeria",
+      "Latitude": 36.7372,
+      "Longitude": 3.0865
+    },
+    {
+      "Nationality": "Morocco",
+      "Latitude": 34.020882,
+      "Longitude": -6.841650
+    },
+    {
+      "Nationality": "Kenya",
+      "Latitude": -1.2921,
+      "Longitude": 36.8219
+    },
+    {
+      "Nationality": "Libya",
+      "Latitude": 32.8872,
+      "Longitude": 13.1913
+    },
+    {
+      "Nationality": "Egypt",
+      "Latitude": 30.0444,
+      "Longitude": 31.2357
+    },
+    {
+      "Nationality": "Nigeria",
+      "Latitude": 9.0820,
+      "Longitude": 8.6753
+    },
+    {
+      "Nationality": "Senegal",
+      "Latitude": 14.4974,
+      "Longitude": -14.4524
+    },
+    {
+      "Nationality": "Sudan",
+      "Latitude": 15.5007,
+      "Longitude": 32.5599
+    },
+    {
+      "Nationality": "Tunisia",
+      "Latitude": 36.8065,
+      "Longitude": 10.1815
+    },
+    {
+      "Nationality": "Argentina",
+      "Latitude": -34.6037,
+      "Longitude": -58.3816
+    },
+    {
+      "Nationality": "Brazil",
+      "Latitude": -15.8267,
+      "Longitude": -47.9218
+    },
+    {
+      "Nationality": "Dominican Republic",
+      "Latitude": 18.7357,
+      "Longitude": -70.1627
+    },
+    {
+      "Nationality": "Ecuador",
+      "Latitude": -0.1807,
+      "Longitude": -78.4678
+    },
+    {
+      "Nationality": "Colombia",
+      "Latitude": 4.7110,
+      "Longitude": -74.0721
+    },
+    {
+      "Nationality": "Panama",
+      "Latitude": 8.5380,
+      "Longitude": -80.7821
+    },
+    {
+      "Nationality": "Paraguay",
+      "Latitude": -25.2637,
+      "Longitude": -57.5759
+    },
+    {
+      "Nationality": "Peru",
+      "Latitude": -12.0464,
+      "Longitude": -77.0428
+    },
+    {
+      "Nationality": "Chile",
+      "Latitude": -33.4489,
+      "Longitude": -70.6693
+    },
+    {
+      "Nationality": "Uruguay",
+      "Latitude": -34.9011,
+      "Longitude": -56.1645
+    },
+    {
+      "Nationality": "Venezuela",
+      "Latitude": 10.4806,
+      "Longitude": -66.9036
+    }
+]
+    
