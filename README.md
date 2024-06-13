@@ -46,7 +46,7 @@ Proje dosyalarını bilgisayarınıza klonladıktan sonra, projeyi çalıştırm
 
 -Bu komut, uygulamayı geliştirme modunda başlatır. Tarayıcınızı açarak http://localhost:3000 adresine gidin. Yaptığınız değişiklikler kaydedildiğinde sayfa otomatik olarak yenilenecektir.
 
-### Çalıştırma
+### Kullanım
 - Uygulama yüklendiğinde, üst kısımdaki yıl seçim bileşeni aracılığıyla bir yıl seçin.
 - Harita üzerinde Türkiye'ye gelen turistlerin hangi ülkelerden geldiğini ve sayılarını görebilirsiniz.
 - Harita üzerindeki çizgiler ve noktalar, seçilen yılın verilerini göstermektedir.
