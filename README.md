@@ -39,7 +39,7 @@ Proje dosyalarını bilgisayarınıza klonladıktan sonra, projeyi çalıştırm
    ```bash
    npm install
 
-##Çalıştırma
+### Çalıştırma
 - Projeyi yerel sunucuda çalıştırmak için aşağıdaki komutu kullanın:
   ```bash
    npm start
