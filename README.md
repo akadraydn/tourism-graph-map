@@ -38,7 +38,10 @@ Proje dosyalarını bilgisayarınıza klonladıktan sonra, projeyi çalıştırm
 2. Gerekli bağımlılıkları yükleyin:
    ```bash
    npm install
-  veya
-   ```bash
-   yarn install
 
+##Çalıştırma
+- Projeyi yerel sunucuda çalıştırmak için aşağıdaki komutu kullanın:
+  ```bash
+   npm start
+
+-Bu komut, uygulamayı geliştirme modunda başlatır. Tarayıcınızı açarak http://localhost:3000 adresine gidin. Yaptığınız değişiklikler kaydedildiğinde sayfa otomatik olarak yenilenecektir.
