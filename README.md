@@ -35,3 +35,10 @@ Proje dosyalarını bilgisayarınıza klonladıktan sonra, projeyi çalıştırm
 1. Proje dizinine gidin:
    ```bash
    cd tourism-map
+2. Gerekli bağımlılıkları yükleyin:
+   ```bash
+   npm install
+  veya
+   ```bash
+   yarn install
+
